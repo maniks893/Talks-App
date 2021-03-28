@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554670016956",
+    "project_id": "manik-talksapp",
+    "storage_bucket": "manik-talksapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554670016956:android:6e485661526a1c90da43b9",
+        "android_client_info": {
+          "package_name": "com.example.talksapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554670016956-it2l627o88ev7cs5bdfprul5ei3nhr5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4k2S4wln4RD4cTWcFb80kqYjTIPWVDw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554670016956-it2l627o88ev7cs5bdfprul5ei3nhr5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
